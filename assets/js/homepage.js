@@ -3,9 +3,9 @@ function c() {
     
   }
    function a() {
-    window.location.href="../Good To Drink/index.html"  ;
+    window.location.href="index.html"  ;
    }
-   window.open('../Good To Drink/page/18y.html')
+   window.open('18y.html')
 
 let left = document.querySelector('.button-left')
     let right = document.querySelector('.button-right')
